@@ -1,0 +1,36 @@
+body{ 
+	background-color: lightblue;
+}
+h1{
+	text-align: center;
+	color: #9b5151;
+	font-family: Barrio;
+}
+h2{
+ 	color: #ffc75f;
+ 	font-family: Barrio;
+}
+h3{
+	color:#ff9292;
+	font-family: Chewy;
+}
+section{
+	background-color: white;
+	width: 70%;
+	margin: 25px auto;
+	padding: 20px;
+	text-align: center;
+}
+img{
+	width:100%; height:300px;
+	object-fit: cover;
+	/*Propiedades para centrar*/
+	display: block;
+	margin: 0px auto;
+
+}
+p{
+	color: #5b5b5b;
+	font-family: Chewy;
+}
+/*Probando GIT*/
